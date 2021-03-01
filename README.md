@@ -1,1 +1,1 @@
-# brazilian-e-commerce-dataset-study
+# IBM Platinum Deposit study
